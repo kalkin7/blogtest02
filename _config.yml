@@ -1,0 +1,52 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:	pretty
+
+# Setup
+title:		Kalkin7
+tagline:	'blog'
+description:	'Kalkin7's Blog'
+url:		http://blogtest02.kalkinblog.tk/
+
+author:
+  name:		'kalkin7'
+  url:		https://google.com/+Kkalkin7Hong
+
+paginate:	7
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/kalkin_7
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/kalkin7
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+Kkalkin7Hong
+    desc:	Add me on google+
+
+  - icon:	feed
+    url:	http://blogtest02.kalkinblog.tk/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	kalkin7
+  url:		http://blogtest02.kalkinblog.tk
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
