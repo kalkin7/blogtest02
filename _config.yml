@@ -1,6 +1,6 @@
 # Use kramdown as markdown parser engine.
-markdown:      kramdown
-markdown_ext:  markdown,mkd,mkdn,md
+markdown:     kramdown
+markdown_ext: markdown,mkd,mkdn,md
 
 kramdown:
   auto_ids: true
