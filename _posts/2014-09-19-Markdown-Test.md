@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown Test"
 quote: This post is for testing Markdown Formatting
-image: /media/2014-08-21-html-Test/cover.jpg
+image: /media/2014-09-19-Markdown-Test/cover.jpg
 video: false
 ---
 
