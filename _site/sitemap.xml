@@ -1,46 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
   <url>
-    <loc>http://blogtest02.kalkinblog.tk/blog/html-Test</loc>
-    <lastmod>2014-08-21T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>http://kkwiki.tk/Start-Jekyll-Now-Theme/</loc>
+    <lastmod>2016-01-10T00:00:00+09:00</lastmod>
   </url>
-  
   <url>
-    <loc>http://blogtest02.kalkinblog.tk/blog/hello-cosette</loc>
-    <lastmod>2014-02-26T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>http://kkwiki.tk/Hello-World/</loc>
+    <lastmod>2014-03-03T00:00:00+09:00</lastmod>
   </url>
-  
   <url>
-    <loc>http://blogtest02.kalkinblog.tk/blog/thinny-2</loc>
-    <lastmod>2014-01-22T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
+    <loc>http://kkwiki.tk/404/</loc>
   </url>
-  
-  
   <url>
-    <loc>http://blogtest02.kalkinblog.tk/404.html</loc>
-    <lastmod>2014-09-19T03:59:59+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>http://kkwiki.tk/about/</loc>
   </url>
-  
   <url>
-    <loc>http://blogtest02.kalkinblog.tk/about/</loc>
-    <lastmod>2014-09-19T03:59:59+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>http://kkwiki.tk/</loc>
   </url>
-  
-  <url>
-    <loc>http://blogtest02.kalkinblog.tk/</loc>
-    <lastmod>2014-09-19T03:59:59+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  
+    <url>
+      <loc>http://kkwiki.tk/Hello-World/</loc>
+    </url>
+    <url>
+      <loc>http://kkwiki.tk/Start-Jekyll-Now-Theme/</loc>
+    </url>
 </urlset>
