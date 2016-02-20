@@ -1,10 +1,5 @@
 _site
-.DS_Store
-.jekyll
-.bundle
 .sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
-gulpfile.js
+git_post_update.bat
+git_push.bat
+jekyll watch.bat
